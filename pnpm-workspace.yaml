@@ -1,0 +1,4 @@
+packages:
+  - "KSM-Host"
+  - "KSM-Remote1"
+  - "KSM-RemoteRedux"
